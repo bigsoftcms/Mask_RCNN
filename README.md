@@ -1,4 +1,4 @@
-# Outfoucs Image
+# Outfocus Image
 
 Make outfocus image from non-outfocused image with Mask R-CNN and OpenCV
 
